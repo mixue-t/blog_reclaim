@@ -1,0 +1,19 @@
+[
+    {
+      "slug": "new-year-habits",
+      "title": "We All Love New Year’s Resolutions, But How Do We Keep Them Past January?",
+      "date": "January 2, 2026",
+      "excerpt": "Six ways to keep showing up long after the excitement wears off",
+      "file": "posts/251230_habits.md",
+      "published": true
+  },
+  {
+      "slug": "micro-moment",
+      "title": "What to do when we have a micro moment to spare",
+      "date": "December 28, 2025",
+      "excerpt": "Why closing your eyes for even a few seconds calms the heart, reduces cognitive load, and improves creativity.",
+      "file": "posts/251228_eyesclosed.md",
+      "published": true
+  }
+
+]
