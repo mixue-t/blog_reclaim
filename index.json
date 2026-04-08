@@ -5,7 +5,7 @@
       "date": "January 2, 2026",
       "excerpt": "Six ways to keep showing up long after the excitement wears off",
       "file": "posts/251230_habits.md",
-      "published": false
+      "published": true
   },
   {
       "slug": "micro-moment",
@@ -13,7 +13,7 @@
       "date": "December 28, 2025",
       "excerpt": "Why closing your eyes for even a few seconds calms the heart, reduces cognitive load, and improves creativity.",
       "file": "posts/251228_eyesclosed.md",
-      "published": false
+      "published": true
   },
   {
       "slug": "kick-quit-socials",
@@ -21,6 +21,6 @@
       "date": "December 17, 2025",
       "excerpt": "How variational rewards work and how learning about it gave me the distance I needed from social media.",
       "file": "posts/251218_variationalrewards.md",
-      "published": false
+      "published": true
   }
 ]
