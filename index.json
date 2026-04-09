@@ -1,5 +1,13 @@
 [
     {
+        "slug": "procrastination-graph",
+        "title": "Graphs",
+        "date": "April 16, 2026",
+        "excerpt": "Visualizing the two discounts that lead to procrastination",
+        "file": "posts/260409_test.md",
+        "published": true
+    },
+    {
         "slug": "procrastination",
         "title": "Why Do We Procrastinate? A Tale of Two Discounts",
         "date": "April 9, 2026",
