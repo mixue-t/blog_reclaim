@@ -1,12 +1,13 @@
-##How many times has the following occurred to you?
+## How many times has the following occurred to you?
 
 Not too long ago, I had my little cup of coffee ready, sat down at my desk, and was getting ready to start working. I had a deadline in two weeks. Plenty of time, I thought. I was done with my coffee, but I simply could not get started. Instead, I was thinking about everything else I could be doing, even practicing the piano, which I had not done in years. 
 As I sat there, I did not allow myself to do any of those things, and I could not bring myself to get started. So I took my phone out and started scrolling. 
 
 A couple of hours later, I still have not done anything for work, and I now feel guilty for wasting my time and a certain disgust, which is hard to place. I could have watched a movie instead, I thought to myself. 
+
 ---
 
-##Why do we torture ourselves this way?
+## Why do we torture ourselves this way?
 The answer is discounting. Unfortunately, not the kind we get excited about.
 
 When a deadline is two weeks away, the reward of finishing feels distant and abstract. Our brain weighs it as less valuable than something we could feel right now. This is **reward discounting**. The further away a payoff is, the less enticing it is for us. For the same reasons, we would very much rather receive 100$ today than 100$ in a year.
@@ -17,7 +18,7 @@ That is why our phones become such an attractive option. Scrolling costs no effo
 
 ---
 
-##What can we do instead?
+## What can we do instead?
 
 Work with our brains, not against them. If we discount distant rewards and penalize effortful tasks, **the solution is to bring the reward closer and make starting feel easier**.
 
