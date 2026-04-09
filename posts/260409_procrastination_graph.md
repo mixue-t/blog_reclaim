@@ -16,7 +16,7 @@ that we feel motivated to start.
 </iframe>
 
 
-# Before you go
+### Before you go
 When breaking down our task into smaller chunks, it helps to be as specific as possible about what the goal for each chunk is, e.g. "write the introduction" instead of "work on the paper".
 
 If you find yourself missing the intermediate deadlines, it may be a sign that the milestones are not well-defined enough, the effort required for each milestone is still too high, or that you might be a bit overambitious. Be kind to yourself, reflect on why your expectations were not met, and try adjusting the milestones and effort accordingly.
