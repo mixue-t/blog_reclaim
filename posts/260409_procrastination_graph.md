@@ -11,7 +11,8 @@ that we feel motivated to start.
   src="https://procrastination-graph.vercel.app" 
   width="100%" 
   height="900px" 
-  frameborder="0">
+  frameborder="0"
+  style="border:none; display:block;">
 </iframe>
 
 
