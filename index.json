@@ -1,5 +1,13 @@
 [
     {
+        "slug": "procrastination",
+        "title": "Why Do We Procrastinate? A Tale of Two Discounts",
+        "date": "April 9, 2026",
+        "excerpt": "Your brain is not lazy, it's just really good at math",
+        "file": "posts/260409_procrastination.md",
+        "published": true
+    },
+    {
       "slug": "new-year-habits",
       "title": "We All Love New Year’s Resolutions, But How Do We Keep Them Past January?",
       "date": "January 2, 2026",
