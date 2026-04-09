@@ -7,14 +7,15 @@ effort discounting makes effortful tasks feel less valuable than they actually a
 It is not until the perceived value of the task exceeds the value of alternatives
 that we feel motivated to start.
 
-<iframe 
-  src="https://procrastination-graph.vercel.app" 
-  width="100%" 
-  height="900px" 
-  frameborder="0"
-  style="border:none; display:block; width:100%">
-</iframe>
-
+<div style="width:100%;">
+    <iframe 
+    src="https://procrastination-graph.vercel.app" 
+    width="100%" 
+    height="900px" 
+    frameborder="0"
+    style="border:none; display:block; width:100%, max-width:100% !important;">
+    </iframe>
+</div>
 
 ### Before you go
 When breaking down our task into smaller chunks, it helps to be as specific as possible about what the goal for each chunk is, e.g. "write the introduction" instead of "work on the paper".
