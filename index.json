@@ -1,5 +1,13 @@
 [
     {
+        "slug": "procrastination-visualization",
+        "title": "Why Do We Procrastinate? Part 2: A Visual Explanation",
+        "date": "April 9, 2026",
+        "excerpt": "See how effort and reward discounting make us procrastinate, and what we can do about it.",
+        "file": "posts/260409_procrastination_graph.md",
+        "published": true
+    },
+    {
         "slug": "procrastination",
         "title": "Why Do We Procrastinate? A Tale of Two Discounts",
         "date": "April 9, 2026",
