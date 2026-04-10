@@ -13,7 +13,7 @@ that we feel motivated to start.
     width="100%" 
     height="900px" 
     frameborder="0"
-    style="border:none; display:block; width:100%, max-width:100% !important;">
+    style="border:none; display:block; width:100%; max-width:100% !important;">
     </iframe>
 </div>
 
