@@ -12,6 +12,7 @@ that we feel motivated to start.
     src="https://procrastination-graph.vercel.app" 
     width="100%" 
     frameborder="0"
+    scrolling="no"
     style="border:none; display:block; width:100%; max-width:100% !important;">
     </iframe>
 </div>
