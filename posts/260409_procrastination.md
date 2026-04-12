@@ -37,6 +37,6 @@ The next time you sit down to work but dread getting started, remember that you 
 
 
 
-### Bibliography
+### References
 Escobar GG, Mitchell SH. A systematic review of effort discounting research in humans: Current knowledge, recommendations, and future directions. Judgment and Decision Making. 2025;20:e33. doi:10.1017/jdm.2025.10009
 
