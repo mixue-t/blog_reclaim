@@ -5,6 +5,7 @@
         "date": "April 16, 2026",
         "excerpt": "See how effort and reward discounting make us procrastinate, and what we can do about it.",
         "file": "posts/260409_procrastination_graph.md",
+        "image": "images/260409_procrastination_graph.png",
         "published": false
     },
     {
@@ -13,6 +14,7 @@
         "date": "April 9, 2026",
         "excerpt": "Your brain is not lazy, it's just really good at math",
         "file": "posts/260409_procrastination.md",
+        "image": "images/260409_procrastination.png",
         "published": true
     },
     {
@@ -21,6 +23,7 @@
       "date": "January 2, 2026",
       "excerpt": "Six ways to keep showing up long after the excitement wears off",
       "file": "posts/251230_habits.md",
+      "image": "images/251230_habits.png",
       "published": true
   },
   {
@@ -29,6 +32,7 @@
       "date": "December 28, 2025",
       "excerpt": "Why closing your eyes for even a few seconds calms the heart, reduces cognitive load, and improves creativity.",
       "file": "posts/251228_eyesclosed.md",
+      "image": "images/251228_eyesclosed.png",
       "published": true
   },
   {
@@ -37,6 +41,7 @@
       "date": "December 17, 2025",
       "excerpt": "How variational rewards work and how learning about it gave me the distance I needed from social media.",
       "file": "posts/251218_variationalrewards.md",
+      "image": "images/251218_variationalrewards.png",
       "published": true
   }
 ]
